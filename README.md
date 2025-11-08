@@ -42,7 +42,7 @@ By night, I channel my inner **mage**, experimenting with new spells — or as r
 - 🐍 **PCAP – Certified Python Programming Associate**  
 - 🤖 **Huawei Certified AI Associate**
 
-*(Verified through Coursera & AWS portals)*
+*(Verified through Coursera & Official certificates portals)*
 
 ---
 
