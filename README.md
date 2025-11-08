@@ -23,7 +23,7 @@ By night, I channel my inner **mage**, experimenting with new spells — or as r
 | 🧠 Data Engineering | SQL, Apache, Airflow, ETL Pipelines |
 | ☁️ Cloud Magic | GCP, AWS (CCP), Microsoft Azure (DP-100) |
 | 📊 Visualization | Power BI, Matplotlib, Seaborn |
-| 🗺️ Tools of the Trade | Git, Docker, Regex, APIs |
+| 🗺️ Tools of the Trade | Git, Docker, Vscode, APIs, n8n |
 
 ---
 
