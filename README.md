@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.tenor.com/I6qZz5b3WfAAAAAd/world-of-warcraft-mage.gif" width="120" />
   
-  # 🧙‍♂️ Fedi Boussora — Data Scientist | Fire-Arcane Mage
+  # 🧙‍♂️ Fedi Boussora — Data Scientist
   
   *"Turning raw data into enchanted insights since patch 2022"*
 </div>
